@@ -30,4 +30,4 @@ Other than that, by enabling kids to earn, save, spend on their toys, and get re
 * We used https://rinkebyfaucet.com/ to get test ETH
 * The integration of contract and SwiftUI is not fully done
 
->***This was our project which won First place in Redbrick Hacks 2022, the flagship hackathon of Ashoka university***
+>***This was our project which won First place under the track *Sustainability and growth* in Redbrick Hacks 2022, the flagship hackathon of Ashoka university***
