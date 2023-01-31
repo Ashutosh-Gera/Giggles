@@ -31,3 +31,10 @@ Other than that, by enabling kids to earn, save, spend on their toys, and get re
 * The integration of contract and SwiftUI is not fully done
 
 >***This was our project which won First place under the track *Sustainability and growth* in Redbrick Hacks 2022, the flagship hackathon of Ashoka university***
+
+> Made with :blue_heart: by our team:
+> - Ashutosh Gera
+> - Shivoy Arora
+> - Janesh Kapoor
+> - Shivam Dwivedi
+> - Shivam gupta
